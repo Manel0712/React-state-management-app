@@ -10,7 +10,7 @@
     "lint:fix": "npm run lint -- --fix",
     "preview": "vite preview"
   },
-  "dependencies": {
+  "dependencis": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
