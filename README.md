@@ -9,4 +9,4 @@ State management demo for React components
 ## Source
 * official doc: [https://react.dev/reference/react/useState#usestate [ ↗ ] ](https://react.dev/reference/react/useState#usestate)
 
-URL Site: https://react-state-management-app-manel.netlify.app/
+URL Site: https://deploy-preview-1--react-state-management-app-manel.netlify.app/
