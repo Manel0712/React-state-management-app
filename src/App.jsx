@@ -38,7 +38,7 @@ const App = () => {
   ]
    
   const [selected, setSelected] = useState(0);
-  const [text, setText] = useState("If it hurts, do it more often");
+  const [text, setText] = useState(anecdotes[0]);
   const [votes, setVotes] = useState(new Array(anecdotes.length).fill(0));
 
   const handleSelect = () => {
